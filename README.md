@@ -8,16 +8,18 @@
 
 <br />
 <p align="center">
-  Hey folks! I'm HIMANSHU MAKESHWER 🪧🍂👋🏻, an AI-Enthusiast, 💭 & an aspiring AI/ML Individual 🥱 from New Delhi, India 🇮🇳.
+  Hey everyone 👋🏻! I’m <strong>𝗛𝗜𝗠𝗔𝗡𝗦𝗛𝗨 MAKESHWER</strong> — a passionate <strong  Hey everyone 👋🏻! I’m <strong>𝗛𝗜𝗠𝗔𝗡𝗦𝗛𝗨 MAKESHWER</strong> — a passionate >𝗔𝗜 𝗘𝗡𝗧𝗛𝗨𝗦𝗜𝗔𝗦𝗧</strong> from the heart of INDIA 🇮🇳
   <br />
   <br />
-  🎯 Actively transitioning into AI/ML & Data roles.
+  🌟 Actively navigating the space of <strong>𝗔𝗜/𝗠𝗟</strong>, <strong>𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀</strong>, and <strong>𝗗𝗮𝘁𝗮 𝗥𝗼𝗹𝗲𝘀</strong> to build practical, cutting-edge projects
   <br />
-  👾 Building AI projects across Agents, NLP, ML & Computer Vision.
+  🎯 Focused on applying artificial intelligence to solve <strong>𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀</strong> and engineer efficient digital workflows
   <br />
-  💡 Passionate about leveraging AI to solve real-world problems.
+  <br />
+  🪧 Can’t wait to connect and collaborate! Let’s connect and build something impactful! 👀👾
   <br />
 </p>
+
 
 <div align="center"> 
   <a href="https://x.com/realhimanshu_" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
