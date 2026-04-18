@@ -8,7 +8,7 @@
 
 <br />
 <p align="center">
-  Hey everyone 👋🏻! I’m <strong>𝗛𝗜𝗠𝗔𝗡𝗦𝗛𝗨 MAKESHWER</strong> — a passionate <strong  Hey everyone 👋🏻! I’m <strong>𝗛𝗜𝗠𝗔𝗡𝗦𝗛𝗨 MAKESHWER</strong> — a passionate >𝗔𝗜 𝗘𝗡𝗧𝗛𝗨𝗦𝗜𝗔𝗦𝗧</strong> from the heart of INDIA 🇮🇳
+  Hey everyone 👋🏻! I’m <strong>𝗛𝗜𝗠𝗔𝗡𝗦𝗛𝗨 MAKESHWER</strong> — a passionate <strong>𝗔𝗜 𝗘𝗡𝗧𝗛𝗨𝗦𝗜𝗔𝗦𝗧</strong> from the heart of INDIA 🇮🇳
   <br />
   <br />
   🌟 Actively navigating the space of <strong>𝗔𝗜/𝗠𝗟</strong>, <strong>𝗔𝘂𝘁𝗼𝗺𝗮𝘁𝗶𝗼𝗻𝘀</strong>, and <strong>𝗗𝗮𝘁𝗮 𝗥𝗼𝗹𝗲𝘀</strong> to build practical, cutting-edge projects
