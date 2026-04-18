@@ -16,7 +16,7 @@
   🎯 Focused on applying artificial intelligence to solve <strong>𝗿𝗲𝗮𝗹-𝘄𝗼𝗿𝗹𝗱 𝗰𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀</strong> and engineer efficient digital workflows
   <br />
   <br />
-  🪧 Can’t wait to connect and collaborate! Let’s connect and build something impactful! 👀👾
+  🪧 Can’t wait to connect and collaborate! Let’s connect and build something impactful!! 👀👾
   <br />
 </p>
 
@@ -46,7 +46,7 @@
 <!-- Snake Graph -->
 
 <div align="center">
-  <h2>🐍 Snake eating my contribution 🐍</h2>
+  <h2>🐍 Looks like the Snake has developed the taste for my contributions!! 👀💤</h2>
   <br />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sanidhyy/sanidhyy/blob/output/github-contribution-grid-snake-dark.svg" />
